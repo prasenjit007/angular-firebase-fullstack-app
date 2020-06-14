@@ -5,15 +5,15 @@
 export const environment = {
   production: true,
 
-  firebase: {
-    apiKey: "AIzaSJtRn3M",
-    authDomain: "nirebaseapp.com",
-    databaseURL: "htt7.firebaseio.com",
-    projectId: "ng-fitne007",
-    storageBucket: "ng-fitnpspot.com",
-    messagingSenderId: "408",
-    appId: "1:666215e02e5",
-    measurementId: "40"
+   firebase: {
+    apiKey: "test",
+    authDomain: "test",
+    databaseURL: "test",
+    projectId: "test",
+    storageBucket: "test",
+    messagingSenderId: "test",
+    appId: "test",
+    measurementId: "test"
   }
 };
 
